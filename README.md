@@ -3,8 +3,8 @@
 A lightweight framework for collecting citation and download metrics from academic papers using their DOIs.
 
 ## Methods
-- **API collection** via [Crossref](https://api.crossref.org/) — retrieves citation counts and abstract metadata
-- **Web scraping** via Selenium — retrieves download counts from publisher pages
+- **API collection** via [Crossref](https://api.crossref.org/): retrieves citation counts and abstract metadata
+- **Web scraping** via Selenium: retrieves download counts from publisher pages
 
 ## Data
 The input dataset (`data/manscirep_meta_data.xlsx`) is not included in this repository.
