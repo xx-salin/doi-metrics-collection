@@ -12,10 +12,10 @@ Contact to request it.
 
 ## Requirements
 - Python 3.12
-- pandas, requests, selenium, webdriver-manager
+- pandas, requests, selenium, webdriver-manager, openpyxl
 
 Install dependencies:
-pip install pandas requests selenium webdriver-manager
+pip install -r requirements.txt
 
 ## Usage
 Run the cells in `doi_apidatacollection_webscraping.ipynb` in order.
