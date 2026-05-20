@@ -20,5 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 For API collection and single-observation scraping tests, run the cells in `doi_apidatacollection_webscraping.ipynb` in order.
-For iterated web scraping, run `doi_webscraping_cloakbrowser.py`
+
+For iterated web scraping, run `doi_webscraping_cloakbrowser.py`.
+
 Place your input Excel file at `data/manscirep_meta_data.xlsx` before running.
